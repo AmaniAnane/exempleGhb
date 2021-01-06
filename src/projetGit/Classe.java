@@ -1,5 +1,5 @@
 package projetGit;
 
-public class classe {
+public class Classe {
 
 }
